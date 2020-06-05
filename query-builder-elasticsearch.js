@@ -1,6 +1,6 @@
 /*
-* jQuery QueryBuilder Elasticsearch 'bool' query support
-* https://github.com/mistic100/jQuery-QueryBuilder
+* jQuery Query Builder Elasticsearch 'bool' query support
+* https://github.com/ashishsahu/jquery-query-builder-elasticsearch
 * https://www.elastic.co/
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
 */
