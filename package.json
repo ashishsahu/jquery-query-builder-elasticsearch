@@ -1,5 +1,5 @@
 {
-  "name": "jQ-Query-Builder-Elasticsearch-2",
+  "name": "jQ-Query-Builder-Elastic-Search",
   "version": "1.0.0",
   "scripts": {
     "test": "grunt test"

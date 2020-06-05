@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "jQ-Query-Builder-Elasticsearch-2",
+  "name": "jQ-Query-Builder-Elastic-Search",
   "homepage": "https://github.com/ashishsahu/jquery-query-builder-elasticsearch",
   "main": "./query-builder-elasticsearch.js"
 }
