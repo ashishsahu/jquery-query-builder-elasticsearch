@@ -1,6 +1,6 @@
 {
-  "name": "jQ-Query-Builder-Elastic-Search",
-  "version": "1.0.0",
+  "name": "jq-query-builder-elastic-search",
+  "version": "0.0.1",
   "scripts": {
     "test": "grunt test"
   },
@@ -9,5 +9,20 @@
     "grunt-blanket-qunit": "^0.2.0",
     "grunt-contrib-qunit": ">=0.2.1",
     "grunt-contrib-watch": ">=0.3.1"
-  }
+  },
+  "description": "### Dependencies  * jQuery QueryBuilder >= 2.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishsahu/jquery-query-builder-elasticsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishsahu/jquery-query-builder-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/ashishsahu/jquery-query-builder-elasticsearch#readme"
 }
